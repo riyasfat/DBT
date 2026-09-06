@@ -1,0 +1,1 @@
+select * from data_riyas.raw_data.INVOICE_SUMMARY_local where rownum<5
